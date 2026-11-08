@@ -69,14 +69,22 @@ Key metrics:
 - **SQL Server:** data validation and business-rule verification
 - **Business Analysis:** KPI definition, opportunity identification, and stakeholder recommendations
 
-## Planned Repository Structure
+## Project Files
+
+- [Power BI Dashboard](Copilot_Adoption_DashBoard_V1.pbix)
+- [SQL Validation Queries](sql/copilot_adoption_validation.sql)
+- [Executive Overview Screenshot](executive-overview.png)
+- [Adoption Diagnostics Screenshot](adoption-diagnostics.png)
+
+## Repository Structure
 
 ```text
 copilot-adoption-dashboard/
-├── dashboard/        # Power BI file and exported dashboard
-├── images/           # Dashboard screenshots
-├── sql/              # SQL validation queries
-├── data/             # Data notes or permitted sample data
+├── Copilot_Adoption_DashBoard_V1.pbix
+├── executive-overview.png
+├── adoption-diagnostics.png
+├── sql/
+│   └── copilot_adoption_validation.sql
 └── README.md
 ```
 
