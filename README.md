@@ -20,6 +20,8 @@ The analysis uses a synthetic Microsoft AI-in-One dataset and does not contain c
 
 Provides an organization-wide view of AI adoption and weekly engagement.
 
+![Executive Overview](executive-overview.png)
+
 Key metrics:
 
 - **10,050** total employees
@@ -30,6 +32,8 @@ Key metrics:
 ### 2. Adoption Diagnostics
 
 Examines Copilot license utilization, repeat usage, user movement, and department-level opportunities.
+
+![Adoption Diagnostics](adoption-diagnostics.png)
 
 Key metrics:
 
