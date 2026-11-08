@@ -72,7 +72,6 @@ Key metrics:
 ## Project Files
 
 - [Power BI Dashboard](Copilot_Adoption_DashBoard_V1.pbix)
-- [SQL Validation Queries](sql/copilot_adoption_validation.sql)
 - [Executive Overview Screenshot](executive-overview.png)
 - [Adoption Diagnostics Screenshot](adoption-diagnostics.png)
 
@@ -83,8 +82,6 @@ copilot-adoption-dashboard/
 ├── Copilot_Adoption_DashBoard_V1.pbix
 ├── executive-overview.png
 ├── adoption-diagnostics.png
-├── sql/
-│   └── copilot_adoption_validation.sql
 └── README.md
 ```
 
